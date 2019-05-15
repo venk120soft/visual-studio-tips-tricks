@@ -1,0 +1,67 @@
+Visual Studio Tips and Tricks
+
+Debugging and shrtcuts
+
+For any window or feature you wnated to look up in Visual Studio Just go to the Quick launch ()
+1) Ctrl + Q  for qucik launch
+
+For toggle between Collapsing and extracting the code 
+2) Ctrl+M + Ctrl+M    For only collapsing (Ctrl+M + Ctrl+O)
+
+For toggle between full screan mode and normal mode
+3) Shift + Alt + Enter
+
+For Formatting the code
+4) Ctrl + K + D
+
+For prefined snippents like properties, loops like for, while and etc you can type that word and press tab, If you wan to see what are all the
+predefined snippets are available
+5) Ctrl + K + X
+
+For Navigating or switching between the multiple files 
+6) press Ctrl + tab without relasing the ctrl key select the file (by pressing tab or up/down/left/right arrows)
+
+For searching the specific file in entire solution 
+7) Ctrl + , or Ctrl + t
+
+For searching the strings in solution 
+8) Ctrl + Shift + F For replacing the strings with other strings Ctrl + Shift + H
+Here we can also specify In what type of files in the solution you are looking for. In Find Options we can sepecify the file types *.ts/*.cs/*.cshtml etc...
+
+For searching the string with in the same file
+9) Ctrl + F for replacing the string Ctrl + H
+
+For going to the specific line in file
+10) Ctrl + G and enter the line number click on enter
+
+For running the application
+11) Ctrl + F5
+
+For adding the breakpoint at specific line
+12) F9
+
+For any intellicense
+13) Ctrl + space
+
+For Going to the defination of the class or variable
+14) F12
+
+For switching back to the implementation from defination where call from
+15) Ctrl + - (hypen) For moving forward Ctrl + Shift +  - (hypen)
+
+To check all the reference
+16) Ctrl + K + R 
+
+For bookmork
+17) Ctrl + K +K
+
+For normal copy and pasting Ctr + C and Ctrl + V 
+We can do this with out selecting the entire row, we can put the cursor any where and do Ctrl + C and ctrl+ V 
+but If you want to paste the string that you were already copied
+18) Ctrl + Shift + V
+
+For comment
+19) Ctrl + K + C
+
+For Uncomment
+20) Ctrl +  K + U
